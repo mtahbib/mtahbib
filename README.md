@@ -15,14 +15,14 @@
 
 ### 🛡️ About Me
 
-- 🎓 Currently pursuing **M.Eng in Cybersecurity** at University of Malaya
-- 🔭 Working on real-time **Credit Card Fraud Detection using Reinforcement Learning**
-- 🔍 Exploring **SOC tools, Network Forensics, Threat Intelligence, and Malware Analysis**
-- 📚 Learning **Offensive Security**, **OSINT**, and **CTF challenges**
-- 🛠️ Building tools using Python, Flask, Streamlit, and Shodan API
-- ✍️ Cybersecurity + Research Portfolio: [mtahbib.github.io](https://mtahbib.github.io/)
-- 📫 Reach me at: **mtahbib@gmail.com**
-- 🔗 CV/Resume: [View PDF](https://shorturl.at/benKT)
+- 🎓 Currently pursuing **M.Eng in Cybersecurity** at University of Malaya  
+- 🔭 Working on real-time **Credit Card Fraud Detection using Reinforcement Learning**  
+- 🔍 Exploring **SOC tools, Network Forensics, Threat Intelligence, and Malware Analysis**  
+- 📚 Learning **Offensive Security**, **OSINT**, and **CTF challenges**  
+- 🛠️ Building tools using Python, Flask, Streamlit, and Shodan API  
+- ✍️ Cybersecurity + Research Portfolio: [mtahbib.github.io](https://mtahbib.github.io/)  
+- 📫 Reach me at: **mtahbib@gmail.com**  
+- 🔗 CV/Resume: [View PDF](https://shorturl.at/benKT)  
 - ⚡ Fun fact: **No Pineapples on Pizza. Ever.**
 
 ---
@@ -52,9 +52,7 @@
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
-  </a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="wireshark" width="40" height="40"/></a>
   <a href="https://shodan.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/1775361?s=200&v=4" alt="shodan" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
