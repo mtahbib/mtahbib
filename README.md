@@ -52,7 +52,10 @@
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="wireshark" width="40" height="40"/></a>
+ <a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-wireshark-is-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" alt="wireshark" width="40" height="40"/>
+</a>
+
   <a href="https://shodan.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/1775361?s=200&v=4" alt="shodan" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
