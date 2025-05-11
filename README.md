@@ -52,7 +52,9 @@
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://shorturl.at/gIYwc" alt="wireshark" width="40" height="40"/></a>
+   <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/>
+  </a>
   <a href="https://shodan.io" target="_blank"><img src="https://avatars.githubusercontent.com/u/1775361?s=200&v=4" alt="shodan" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
