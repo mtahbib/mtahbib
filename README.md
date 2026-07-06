@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Professional | MSc Cyber Security (Distinction) @ Universiti Malaya | SOC & Pentest | Builder</h3>
 
 <p align="center">
-  <img src="[https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://tenor.com/view/cyber-monday-macbook-workaholic-gif-12959477)" 
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
        width="400" 
        style="margin-left: 30px;">
 </p>
@@ -67,8 +67,11 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtahbib&show_icons=true&locale=en&layout=compact" alt="mtahbib" /></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mtahbib&show_icons=true&locale=en&count_private=true" alt="mtahbib stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtahbib&layout=compact&locale=en" alt="mtahbib top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtahbib&show_icons=true&locale=en" alt="mtahbib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtahbib&" alt="mtahbib" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mtahbib" alt="mtahbib streak stats" />
+</p>
