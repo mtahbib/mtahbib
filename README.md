@@ -1,11 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Tahbib Manzoor</h1>
-<h3 align="center">Cybersecurity Professional | MSc Cyber Security (Distinction) @ Universiti Malaya | SOC & Pentest | Builder</h3>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-       width="400" 
-       style="margin-left: 30px;">
-</p>
+<h3 align="center">Cyber Security Analyst @ Neeramoy | MSc Cyber Security (Distinction) @ Universiti Malaya | SOC & Pentest</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mtahbib&label=Profile%20views&color=0e75b6&style=flat" alt="mtahbib" />
@@ -22,7 +16,7 @@
 - 🔭 Actively pursuing **SOC analyst** roles and academic/lecturer positions in parallel with hands-on security work
 - 🛠️ Building **Nira** — a clinical prescription copilot for doctors combining a rule-based contraindication engine with a local LLM (Qwen via Ollama)
 - 🔍 Comfortable across **network scanning, CVE/CVSS analysis, Shodan-based recon, and vulnerability assessment**
-- ✍️ Portfolio: [mtahbib.github.io](https://mtahbib.github.io/)
+- ✍️ Portfolio: [tahbibmanzoor.com](https://www.tahbibmanzoor.com/)
 - 📫 Reach me at: **mtahbib@gmail.com**
 - 📱 +8801688789684
 - ⚡ Fun fact: **No Pineapples on Pizza. Ever.**
@@ -45,6 +39,12 @@
   <a href="https://linkedin.com/in/tahbib-manzoor-249404175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://twitter.com/mtahbib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtahbib" height="30" width="40" /></a>
   <a href="https://fb.com/tahbib.manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+  <a href="https://www.tahbibmanzoor.com/"><img src="https://img.shields.io/badge/Website-tahbibmanzoor.com-12d640?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://scholar.google.com/citations?user=CeykqkIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Tahbib%20Manzoor-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0001-3008-3391"><img src="https://img.shields.io/badge/ORCID-0009--0001--3008--3391-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 ---
