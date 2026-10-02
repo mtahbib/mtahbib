@@ -45,6 +45,8 @@
   <a href="https://www.tahbibmanzoor.com/"><img src="https://img.shields.io/badge/Website-tahbibmanzoor.com-12d640?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://scholar.google.com/citations?user=CeykqkIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Tahbib%20Manzoor-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://orcid.org/0009-0001-3008-3391"><img src="https://img.shields.io/badge/ORCID-0009--0001--3008--3391-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://ieeexplore.ieee.org/author/202570910953483"><img src="https://img.shields.io/badge/IEEE%20Xplore-Tahbib%20Manzoor-00629B?style=flat&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
+  <a href="https://www.semanticscholar.org/author/2287981177"><img src="https://img.shields.io/badge/Semantic%20Scholar-Tahbib%20Manzoor-1857B6?style=flat&logo=semanticscholar&logoColor=white" alt="Semantic Scholar" /></a>
 </p>
 
 ---
