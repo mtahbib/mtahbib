@@ -14,7 +14,7 @@
 - ✅ **ISC2 Certified in Cybersecurity (CC)**
 - 📄 Published **3 papers at IEEE ICCIT** (hate speech detection in transliterated Bengali, student performance prediction) plus a cited **Mendeley dataset** on Banglish hate speech
 - 🔭 Actively pursuing **SOC analyst** roles and academic/lecturer positions in parallel with hands-on security work
-- 🛠️ Building **Nira** — a clinical prescription copilot for doctors combining a rule-based contraindication engine with a local LLM (Qwen via Ollama)
+- 🚀 Founder of **[ShasthoLipi](https://www.shastholipi.com)** — digital prescription software for doctors in Bangladesh, combining a rule-based contraindication engine with a local LLM (Qwen via Ollama)
 - 🔍 Comfortable across **network scanning, CVE/CVSS analysis, Shodan-based recon, and vulnerability assessment**
 - ✍️ Portfolio: [tahbibmanzoor.com](https://www.tahbibmanzoor.com/)
 - 📫 Reach me at: **mtahbib@gmail.com**
@@ -25,7 +25,7 @@
 
 ### 📡 Projects Spotlight
 
-- 🩺 **Nira** — Clinical prescription copilot: rule-based contraindication engine + local LLM (Qwen/Ollama) for doctors
+- 🩺 **[ShasthoLipi](https://www.shastholipi.com)** — Digital prescription software for doctors: rule-based contraindication engine + local LLM (Qwen/Ollama)
 - 🧠 [ThreatClassifier](https://github.com/mtahbib/threatclassifier) — ML-based IoT malware traffic classifier
 - 🌐 [ScanTracer](https://github.com/mtahbib/scantracer) — ARP + Shodan + CVE network scanner with GUI
 - 🔍 [IP Vulnerability Tool](https://github.com/mtahbib/shodan-vuln-scanner) — Streamlit-based CVE dashboard using Shodan
