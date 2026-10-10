@@ -18,7 +18,6 @@
 - 🔍 Comfortable across **network scanning, CVE/CVSS analysis, Shodan-based recon, and vulnerability assessment**
 - ✍️ Portfolio: [tahbibmanzoor.com](https://www.tahbibmanzoor.com/)
 - 📫 Reach me at: **mtahbib@gmail.com**
-- 📱 +8801688789684
 - ⚡ Fun fact: **No Pineapples on Pizza. Ever.**
 
 ---
