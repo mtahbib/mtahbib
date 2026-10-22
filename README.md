@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cyber-header.svg" alt="Tahbib Manzoor — Cybersecurity, AI Research and Technology Founder" width="100%" />
+<img src="./assets/cyber-header.svg" width="100%" alt="Cybersecurity Banner" />
 
 <br/>
 
